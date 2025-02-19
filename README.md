@@ -1,6 +1,6 @@
 # Sign Language Recognition and Speech Synthesis
 
-This project is developed as part of the 8th-semester submission for college. The system captures images of American Sign Language (ASL) hand gestures, processes them, and predicts the corresponding letter using a machine learning model. The output is displayed as text and converted into speech for better accessibility.
+This project is developed as part of the 8th-semester submission for college. The system captures images of Indian Sign Language (ISL) hand gestures, processes them, and predicts the corresponding letter using a machine learning model. The output is displayed as text and converted into speech for better accessibility.
 ## Project Workflow
 
 1. **Data Collection:** Capture images of hand gestures.
