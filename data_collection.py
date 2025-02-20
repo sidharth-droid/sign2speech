@@ -6,7 +6,7 @@ if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
 number_of_classes = 26
-dataset_size = 200
+dataset_size = 150
 
 cap = cv2.VideoCapture(0)
 
