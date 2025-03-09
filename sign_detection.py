@@ -12,8 +12,9 @@ mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 hands = mp_hands.Hands(static_image_mode=False, min_detection_confidence=0.3)
 
-labels_dict = {i: chr(65 + i) for i in range(26)}  # Modify according to ISL signs
-FEATURES = 84  # 42 per hand
+# labels_dict = {i: chr(65 + i) for i in range(26)}  
+# print(labels_dict)
+FEATURES = 84  
 
 while True:
     data_aux = []
